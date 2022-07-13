@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ciaooo!👋
 
 <!--
 **Loriss07/Loriss07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello everyone!
+
+I'm Loris, a 17 years old guy from Bergamo, in northern Italy :it: . I'm currently attending an ICT high school 🏫: - I.T.I.S "P.Paleocapa" - 
+I greatly enjoy playing volley 🏐, listening to music 🎵 and playing the flute.
+
+My ultimate goals in life are to be useful to others and learn as much as I can about the world, and up to now my greatest wish is to travel across the world🗺️: I hope I'll be able to fulfill this dream!
+
+
+
